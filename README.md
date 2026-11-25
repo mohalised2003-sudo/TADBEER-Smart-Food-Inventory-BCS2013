@@ -19,7 +19,7 @@ Ensure **Python 3.10+** is installed, then navigate into the project folder and 
     cd TADBEER
     python main.py
 
-## Group D Members
+## Group Members
 - Ali Saeedahmed Ali Mohamed      (ID: 202504010041)
 - Khaled Mohammed Ahmed Abdulhak  (ID: 202309010637)
 - Yaamr Rashad Ebrahim Saleh      (ID: 202401010351)
